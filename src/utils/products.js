@@ -1,6 +1,6 @@
-import productImg01 from "../Images/double-sofa-01.png";
-import productImg02 from "../Images/double-sofa-02.png";
-import productImg03 from "../Images/double-sofa-03.png";
+import productImg01 from "../Images/watermelon.jpeg";
+import productImg02 from "../Images/apples.jpeg";
+import productImg03 from "../Images/313dtY-LOEL.SS700jpg";
 
 import productImg04 from "../Images/single-sofa-01.jpg";
 import productImg05 from "../Images/single-sofa-02.jpg";
